@@ -134,9 +134,9 @@ Go to `/index.html` and fill your information, there are 6 sections:
     <div class="header__logo-container">
       <div class="header__logo-img-cont">
         <img
-          src="./assets/png/john-doe.png"
-          alt="Ram Maheshwari Logo Image"
-          class="header__logo-img"
+                src="assets/png/janik.png"
+                alt="Ram Maheshwari Logo Image"
+                class="header__logo-img"
         />
       </div>
       <span class="header__logo-sub">John Doe</span>
@@ -158,9 +158,9 @@ Go to `/index.html` and fill your information, there are 6 sections:
       </ul>
       <div class="header__main-ham-menu-cont">
         <img
-          src="./assets/svg/ham-menu.svg"
-          alt="hamburger menu"
-          class="header__main-ham-menu"
+                src="./assets/svg/ham-menu.svg"
+                alt="hamburger menu"
+                class="header__main-ham-menu"
         />
       </div>
     </div>

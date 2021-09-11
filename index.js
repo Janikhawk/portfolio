@@ -16,3 +16,5 @@ const headerLogoConatiner = document.querySelector('.header__logo-container')
 headerLogoConatiner.addEventListener('click', () => {
   location.href = 'index.html'
 })
+
+document.getElementById("current_year").innerHTML = `&copy; Copyright ${new Date().getFullYear()}`;
