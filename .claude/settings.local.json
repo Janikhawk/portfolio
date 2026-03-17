@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:\\\\Files\\\\Documents\\\\Programming\\\\Portfolio\" && npm install 2>&1)",
+      "Bash(cd \"D:\\\\Files\\\\Documents\\\\Programming\\\\Portfolio\" && npm run build 2>&1)"
+    ]
+  }
+}
