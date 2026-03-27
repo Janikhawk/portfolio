@@ -2,7 +2,15 @@
   "permissions": {
     "allow": [
       "Bash(cd \"D:\\\\Files\\\\Documents\\\\Programming\\\\Portfolio\" && npm install 2>&1)",
-      "Bash(cd \"D:\\\\Files\\\\Documents\\\\Programming\\\\Portfolio\" && npm run build 2>&1)"
+      "Bash(cd \"D:\\\\Files\\\\Documents\\\\Programming\\\\Portfolio\" && npm run build 2>&1)",
+      "Bash(gh pr:*)",
+      "Bash(gh api:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(git rebase:*)",
+      "Bash(git stash:*)",
+      "Bash(git push:*)"
     ]
   }
 }
