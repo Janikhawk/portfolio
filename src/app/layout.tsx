@@ -9,7 +9,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Janik Hawk — Senior Frontend Engineer",
+  title: {
+    default: "Janik Hawk",
+    template: "%s | Janik Hawk",
+  },
   description:
     "Senior Frontend Engineer specializing in Angular, React, and TypeScript. 8+ years building high-performance enterprise web applications across finance, healthcare, gaming, and government sectors.",
   keywords: [
